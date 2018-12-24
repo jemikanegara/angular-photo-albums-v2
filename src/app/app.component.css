@@ -1,0 +1,37 @@
+.bg-black {
+  background: #212121;
+  color: white;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  width: 960px;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.fit {
+  flex: 1;
+  margin: 10px;
+}
+
+.full {
+  width: 100%;
+}
+
+.bg-grey {
+  background: #eee;
+}
+
+.margin {
+  margin: 10px;
+}
+app-album {
+  cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.none {
+  list-style: none;
+}
+button {
+  width: 100%;
+  background: #000;
+  color: white;
+  margin: 10px 0;
+}
